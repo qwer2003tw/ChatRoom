@@ -95,7 +95,7 @@ console.log('user---'+user);
     });
     promise.then(function(){
       console.log('SignIn User');
-      location.replace('./index.html')
+      location.replace('./signin.html')
       console.log('chage')
 
     });

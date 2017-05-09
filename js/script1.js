@@ -148,7 +148,7 @@ $(document).ready(function(){
     $btnSignIn.removeAttr('disabled')
     $btnSignUp.removeAttr('disabled')
     $message.html('');
-     location.replace('./signin.html')
+     location.replace('./index.html')
   });
 
 
